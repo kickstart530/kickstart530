@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kickstart530
 - 👀 I’m interested in software development of all kinds,specific interest in server side implementations of IoT, Financial, Legal and Oil & Gas Domains.
 - 🌱 I’m currently learning Flutter Dart, organizing stuff around myself
-- 💞️ I’m looking to collaborate on project with Mobile first as appraoch.
+- 💞️ I’m looking to collaborate on projects with Mobile first as their primary appraoch to development.
 - 📫 How to reach me roy.paruchuri[at]gmail.com
 
 <!---
